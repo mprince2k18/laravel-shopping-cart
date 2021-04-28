@@ -1,21 +1,22 @@
 ## LaravelShoppingcart
-![CI Code Checks](https://github.com/mprince/LaravelShoppingcart/workflows/CI%20Code%20Checks/badge.svg?branch=master)
-[![codecov](https://codecov.io/gh/mprince/LaravelShoppingcart/branch/master/graph/badge.svg)](https://codecov.io/gh/mprince/LaravelShoppingcart)
+![CI Code Checks](https://github.com/mprince/laravelshoppingcart/workflows/CI%20Code%20Checks/badge.svg?branch=master)
+[![codecov](https://codecov.io/gh/mprince/laravelshoppingcart
+/branch/master/graph/badge.svg)](https://codecov.io/gh/mprince/LaravelShoppingcart)
 [![StyleCI](https://styleci.io/repos/152610878/shield?branch=master)](https://styleci.io/repos/152610878)
-[![Total Downloads](https://poser.pugx.org/mprince/shoppingcart/downloads.png)](https://packagist.org/packages/mprince/shoppingcart)
-[![Latest Stable Version](https://poser.pugx.org/mprince/shoppingcart/v/stable)](https://packagist.org/packages/mprince/shoppingcart)
-[![Latest Unstable Version](https://poser.pugx.org/mprince/shoppingcart/v/unstable)](https://packagist.org/packages/mprince/shoppingcart)
-[![License](https://poser.pugx.org/mprince/shoppingcart/license)](https://packagist.org/packages/mprince/shoppingcart)
+[![Total Downloads](https://poser.pugx.org/mprince/laravelshoppingcart/downloads.png)](https://packagist.org/packages/mprince/laravelshoppingcart)
+[![Latest Stable Version](https://poser.pugx.org/mprince/laravelshoppingcart/v/stable)](https://packagist.org/packages/mprince/laravelshoppingcart)
+[![Latest Unstable Version](https://poser.pugx.org/mprince/laravelshoppingcart/v/unstable)](https://packagist.org/packages/mprince/laravelshoppingcart)
+[![License](https://poser.pugx.org/mprince/laravelshoppingcart/license)](https://packagist.org/packages/mprince/laravelshoppingcart)
 
 This is a fork of [Crinsane's LaravelShoppingcart](https://github.com/Crinsane/LaravelShoppingcart) extended with minor features compatible with Laravel 7+. An example integration can be [found here](https://github.com/mprince/LaravelShoppingcartDemo).
 
 ## Installation
 
-Install the [package](https://packagist.org/packages/mprince/shoppingcart) through [Composer](http://getcomposer.org/). 
+Install the [package](https://packagist.org/packages/mprince/laravelshoppingcart) through [Composer](http://getcomposer.org/). 
 
 Run the Composer require command from the Terminal:
 
-    composer require mprince/shoppingcart
+    composer require mprince/laravelshoppingcart
 
 Now you're ready to start using the shoppingcart in your application.
 
