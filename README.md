@@ -1,21 +1,21 @@
 ## LaravelShoppingcart
-![CI Code Checks](https://github.com/bumbummen99/LaravelShoppingcart/workflows/CI%20Code%20Checks/badge.svg?branch=master)
-[![codecov](https://codecov.io/gh/bumbummen99/LaravelShoppingcart/branch/master/graph/badge.svg)](https://codecov.io/gh/bumbummen99/LaravelShoppingcart)
+![CI Code Checks](https://github.com/mprince/LaravelShoppingcart/workflows/CI%20Code%20Checks/badge.svg?branch=master)
+[![codecov](https://codecov.io/gh/mprince/LaravelShoppingcart/branch/master/graph/badge.svg)](https://codecov.io/gh/mprince/LaravelShoppingcart)
 [![StyleCI](https://styleci.io/repos/152610878/shield?branch=master)](https://styleci.io/repos/152610878)
-[![Total Downloads](https://poser.pugx.org/bumbummen99/shoppingcart/downloads.png)](https://packagist.org/packages/bumbummen99/shoppingcart)
-[![Latest Stable Version](https://poser.pugx.org/bumbummen99/shoppingcart/v/stable)](https://packagist.org/packages/bumbummen99/shoppingcart)
-[![Latest Unstable Version](https://poser.pugx.org/bumbummen99/shoppingcart/v/unstable)](https://packagist.org/packages/bumbummen99/shoppingcart)
-[![License](https://poser.pugx.org/bumbummen99/shoppingcart/license)](https://packagist.org/packages/bumbummen99/shoppingcart)
+[![Total Downloads](https://poser.pugx.org/mprince/shoppingcart/downloads.png)](https://packagist.org/packages/mprince/shoppingcart)
+[![Latest Stable Version](https://poser.pugx.org/mprince/shoppingcart/v/stable)](https://packagist.org/packages/mprince/shoppingcart)
+[![Latest Unstable Version](https://poser.pugx.org/mprince/shoppingcart/v/unstable)](https://packagist.org/packages/mprince/shoppingcart)
+[![License](https://poser.pugx.org/mprince/shoppingcart/license)](https://packagist.org/packages/mprince/shoppingcart)
 
-This is a fork of [Crinsane's LaravelShoppingcart](https://github.com/Crinsane/LaravelShoppingcart) extended with minor features compatible with Laravel 7+. An example integration can be [found here](https://github.com/bumbummen99/LaravelShoppingcartDemo).
+This is a fork of [Crinsane's LaravelShoppingcart](https://github.com/Crinsane/LaravelShoppingcart) extended with minor features compatible with Laravel 7+. An example integration can be [found here](https://github.com/mprince/LaravelShoppingcartDemo).
 
 ## Installation
 
-Install the [package](https://packagist.org/packages/bumbummen99/shoppingcart) through [Composer](http://getcomposer.org/). 
+Install the [package](https://packagist.org/packages/mprince/shoppingcart) through [Composer](http://getcomposer.org/). 
 
 Run the Composer require command from the Terminal:
 
-    composer require bumbummen99/shoppingcart
+    composer require mprince/shoppingcart
 
 Now you're ready to start using the shoppingcart in your application.
 
@@ -732,8 +732,8 @@ Cart::add('1239ad0', 'Product 2', 2, 5.95, ['size' => 'large']);
 <table>
 <tr>
     <td align="center">
-        <a href="https://github.com/bumbummen99">
-            <img src="https://avatars.githubusercontent.com/u/4533331?v=4" width="100;" alt="bumbummen99"/>
+        <a href="https://github.com/mprince">
+            <img src="https://avatars.githubusercontent.com/u/4533331?v=4" width="100;" alt="mprince"/>
             <br />
             <sub><b>Patrick</b></sub>
         </a>
@@ -753,8 +753,8 @@ Cart::add('1239ad0', 'Product 2', 2, 5.95, ['size' => 'large']);
 <table>
 <tr>
     <td align="center">
-        <a href="https://github.com/bumbummen99">
-            <img src="https://avatars.githubusercontent.com/u/4533331?v=4" width="100;" alt="bumbummen99"/>
+        <a href="https://github.com/mprince">
+            <img src="https://avatars.githubusercontent.com/u/4533331?v=4" width="100;" alt="mprince"/>
             <br />
             <sub><b>Patrick</b></sub>
         </a>

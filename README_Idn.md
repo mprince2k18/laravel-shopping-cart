@@ -1,21 +1,21 @@
 ## LaravelShoppingcart
-![CI Code Checks](https://github.com/bumbummen99/LaravelShoppingcart/workflows/CI%20Code%20Checks/badge.svg?branch=master)
-[![codecov](https://codecov.io/gh/bumbummen99/LaravelShoppingcart/branch/master/graph/badge.svg)](https://codecov.io/gh/bumbummen99/LaravelShoppingcart)
+![CI Code Checks](https://github.com/mprince/LaravelShoppingcart/workflows/CI%20Code%20Checks/badge.svg?branch=master)
+[![codecov](https://codecov.io/gh/mprince/LaravelShoppingcart/branch/master/graph/badge.svg)](https://codecov.io/gh/mprince/LaravelShoppingcart)
 [![StyleCI](https://styleci.io/repos/152610878/shield?branch=master)](https://styleci.io/repos/152610878)
-[![Total Downloads](https://poser.pugx.org/bumbummen99/shoppingcart/downloads.png)](https://packagist.org/packages/bumbummen99/shoppingcart)
-[![Latest Stable Version](https://poser.pugx.org/bumbummen99/shoppingcart/v/stable)](https://packagist.org/packages/bumbummen99/shoppingcart)
-[![Latest Unstable Version](https://poser.pugx.org/bumbummen99/shoppingcart/v/unstable)](https://packagist.org/packages/bumbummen99/shoppingcart)
-[![License](https://poser.pugx.org/bumbummen99/shoppingcart/license)](https://packagist.org/packages/bumbummen99/shoppingcart)
+[![Total Downloads](https://poser.pugx.org/mprince/shoppingcart/downloads.png)](https://packagist.org/packages/mprince/shoppingcart)
+[![Latest Stable Version](https://poser.pugx.org/mprince/shoppingcart/v/stable)](https://packagist.org/packages/mprince/shoppingcart)
+[![Latest Unstable Version](https://poser.pugx.org/mprince/shoppingcart/v/unstable)](https://packagist.org/packages/mprince/shoppingcart)
+[![License](https://poser.pugx.org/mprince/shoppingcart/license)](https://packagist.org/packages/mprince/shoppingcart)
 
 Ini adalah percabangan dari [Crinsane's LaravelShoppingcart](https://github.com/Crinsane/LaravelShoppingcart) dikembangkan dengan fitur-fitur minor yang kompatibel dengan Laravel 6
 
 ## Instalasi
 
-Install paket(https://packagist.org/packages/bumbummen99/shoppingcart) menggunakan [Composer](http://getcomposer.org/). 
+Install paket(https://packagist.org/packages/mprince/shoppingcart) menggunakan [Composer](http://getcomposer.org/). 
 
 Jalankan Composer dengan menggunakan perintah berikut:
 
-    composer require bumbummen99/shoppingcart
+    composer require mprince/shoppingcart
 
 Sekarang Anda siap untuk mulai menggunakan shoppingcart di aplikasi Anda.
 

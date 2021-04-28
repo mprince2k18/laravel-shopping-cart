@@ -1431,7 +1431,7 @@ class CartTest extends TestCase
     /** @test */
     public function it_does_allow_adding_cart_items_with_weight_and_options()
     {
-        // https://github.com/bumbummen99/LaravelShoppingcart/pull/5
+        // https://github.com/mprince/LaravelShoppingcart/pull/5
         $cart = $this->getCart();
 
         $cartItem = $cart->add('293ad', 'Product 1', 1, 9.99, 550, ['size' => 'large']);
