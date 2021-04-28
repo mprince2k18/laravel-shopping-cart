@@ -38,7 +38,7 @@
     "suggest": {
         "Mprince/notify": "Simple flash notifications for Laravel"
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "extra": {
         "laravel": {
             "providers": [
